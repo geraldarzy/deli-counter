@@ -35,11 +35,5 @@ def now_serving(array)
         nextinline = array.shift
         puts "Currently serving #{nextinline}."
     end
-    
-
-
-        
-
-
 end
 
